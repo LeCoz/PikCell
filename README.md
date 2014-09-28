@@ -1,5 +1,10 @@
 PikCell
 =======
+Dependencies
+------------
+
+- pyQT4
+
 
 Description
 -----------
