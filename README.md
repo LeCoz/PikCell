@@ -1,4 +1,9 @@
 PikCell
 =======
 
-Small pixel art editor
+Description
+-----------
+
+Small python pixel art editor
+
+
